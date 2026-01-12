@@ -18,10 +18,8 @@ FFmpeg (for audio decoding)
 From Source
 
 Clone the repository:
-bash
-Copier
 
-git clone https://github.com/yourusername/audio-player-app.git
+git clone (https://github.com/Belzamos/Music_Player_App.git
 
 
 Navigate to the project directory:
@@ -40,9 +38,6 @@ pip install -r requirements.txt
 
 Run the app:
 bash
-Copier
-
-python main.py
 
 
 Pre-built Binaries
