@@ -11,37 +11,10 @@ Cross-platform: Works on Windows, macOS, and Linux.
 Lightweight and fast: Minimal resource usage.
 
 Installation
-Prerequisites
-
-Python 3.8+ (if building from source)
-FFmpeg (for audio decoding)
-From Source
 
 Clone the repository:
 
 git clone (https://github.com/Belzamos/Music_Player_App.git
-
-
-Navigate to the project directory:
-bash
-Copier
-
-cd audio-player-app
-
-
-Install dependencies:
-bash
-Copier
-
-pip install -r requirements.txt
-
-
-Run the app:
-bash
-
-
-Pre-built Binaries
-Download the latest release for your platform from the Releases page.
 
 Usage
 
@@ -68,4 +41,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-For questions or feedback, reach out at your.email@example.com.
+For questions or feedback, reach out at adam.mejjaoui@gmail.com
